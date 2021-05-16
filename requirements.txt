@@ -1,0 +1,11 @@
+numpy
+pandas 
+spacy
+wordcloud 
+matplotlib
+seaborn 
+sentence_transformers
+umap-learn
+xgboost
+sklearn
+gensim

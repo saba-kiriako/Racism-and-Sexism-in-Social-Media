@@ -1,0 +1,5 @@
+{
+"mkr": "ok I hear you",
+"rt": "retweet",
+"im" : "I am"
+}
