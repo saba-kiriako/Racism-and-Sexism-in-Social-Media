@@ -1,10 +1,11 @@
 # RAMP starting kit on Exploring Racism and Sexism in Social Media
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saba-kiriako/Racism-and-Sexism-in-Social-Media/main?filepath=ERSSM_starting_kit.ipynb)
+
 
 _Authors: Saba KIRIAKO, Ashraf GHIYE
 
 The objective of this challenge is to correctly label tweets as one of three categories: sexism, racism or none.
-
 
 #### Set up
 
